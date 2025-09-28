@@ -1,2 +1,2 @@
 local Games = {
-  [] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/main/Blox%20Fruit.lua"
+  [111510466699934] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/refs/heads/main/Purgatory"
