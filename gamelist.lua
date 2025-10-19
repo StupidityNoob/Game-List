@@ -6,5 +6,6 @@ local Games= {
   [118384840573608] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/refs/heads/main/BeAbodybuilder", -- Be a Bodybuilder
   [132620530679256] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/main/Pushtogether.lua", -- Lobby
   [73367387755542] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/main/Pushtogether.lua", -- main game
+  [125886895122772] = "https://raw.githubusercontent.com/StupidityNoob/Scripts/main/CubeGaem", -- Cube gaem
 }
 return Games
